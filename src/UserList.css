@@ -1,0 +1,31 @@
+.user-list-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .user-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-item {
+    background-color: #f4f4f4;
+    margin: 10px auto;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    max-width: 400px;
+    text-align: left;
+  }
+  
+  .user-item h3 {
+    margin: 0 0 5px 0;
+    color: #333;
+  }
+  
+  .user-item p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
